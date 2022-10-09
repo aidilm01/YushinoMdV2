@@ -25,7 +25,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Hyuura-Official/YushinoMdV2
+$ git clone https://github.com/aidilm01/YushinoMdV2
 $ cd YushinoMdV2
 $ npm i 
 ```
