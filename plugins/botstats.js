@@ -13,7 +13,7 @@ let handler = async (m, { conn, generateWAMessageFromContent, }) => {
            },
            "message": {
                "groupInviteMessage": {
-                   "groupJid": "6282127487538-1625305606@g.us",
+                   "groupJid": "6281380448281-1625305606@g.us",
                    "inviteCode": "null",
                    "groupName": "Halo", 
                    "caption": wm, 
@@ -47,13 +47,13 @@ let handler = async (m, { conn, generateWAMessageFromContent, }) => {
 ╰────────────⬣`
 
 conn.sendButtonDoc(m.chat, '▷ʙᴏᴛ sᴛᴀᴛᴜs◁', sts, 'Owner', '.owner', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https//wa.me/6281361281833?text=Hᴀʟᴏ+ɢᴀɴᴛᴇɴɢᴋᴜ',
+    mediaUrl: 'https//wa.me/6281380448281?text=Hᴀʟᴏ+ɢᴀɴᴛᴇɴɢᴋᴜ',
     mediaType: 2, 
-    description: 'wa.me/6281361281833?text=Hᴀʟᴏ+ɢᴀɴᴛᴇɴɢᴋᴜ',
+    description: 'wa.me/6281380448281?text=Hᴀʟᴏ+ɢᴀɴᴛᴇɴɢᴋᴜ',
     title: "Iɴɪ Fᴀᴄᴇʙᴏᴏᴋ Gᴡ!",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
-    sourceUrl: 'https://facebook.com/sadtime098'
+    sourceUrl: 'https://facebook.com/DilzpxPorke'
      }}
   })
 
