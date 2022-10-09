@@ -63,8 +63,8 @@ title: `⫹⫺ Oᴛʜᴇʀ ⫹⫺`,
 rows: [
 {title: "⸙ Kontak", rowId: ".owner kontak"},
 {title: "⸙ Nomor", rowId: ".owner nomor"},
-{title: "⸙ Biodata Aldi", rowId: ".owner bio"},
-{title: "⸙ Biodata Aisyah", rowId: ".owner bio2"},
+{title: "⸙ Biodata DILZPX", rowId: ".owner bio"},
+{title: "⸙ Biodata DILZPX", rowId: ".owner bio2"},
 {title: "⸙ Script", rowId: ".sc"},
 ]}, {
 title: `⬔ Sᴜᴘᴘᴏʀᴛ Mᴇ ⬔`,
