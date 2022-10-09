@@ -464,7 +464,7 @@ thumbnail: await(await fetch(thumb2)).buffer(),
 }
  }
 })*/
-/*let audio = `https://raw.githubusercontent.com/aisyah-rest/mangkane/main/Mangkanenya/${command}.mp3`
+/*let audio = `https://raw.githubusercontent.com/aidilm01/mangkane/main/Mangkanenya/${command}.mp3`
 
 await conn.sendFile(m.chat, audio, 'error.mp3', null, fkontak, true, {
 type: 'audioMessage', 
